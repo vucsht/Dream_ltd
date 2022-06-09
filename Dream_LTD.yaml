@@ -1,0 +1,61 @@
+version: '3'
+  departments:
+    -number1:
+      employee:
+        - olga1:
+            name: Olga
+            job: accountant
+        - olga2:
+            name: Olga
+            job: accountant
+        - olga3:
+            name: Olga
+            job: accountant
+        - olga4:
+            name: Olga
+            job: accountant
+        - dmitry1:
+            name: Dmitry
+        - dmitry2:
+            name: Dmitry
+        - dmitry3:
+            name: Dmitry
+        - ivan1:
+            name: Ivan
+        - ivan2:
+            name: Ivan
+    - number2:
+      employee:
+        - roman1:
+            name: Roman
+            job: lawyer
+        - roman2:
+            name: Roman
+            job: lawyer
+        - roman3:
+            name: Roman
+            job: lawyer
+        - maxim1:
+            name: Maxim
+            job: driver
+        - maxim2:
+            name: Maxim
+            job: driver
+    - number3:
+      employee:
+        - ivan:
+            name: Ivan
+            job: builder
+        - Nikolay:
+            name: Nicolay
+            job: builder
+        - olga:
+            name: Olga
+            job: lawer
+    - number4&5:
+      employee:
+        - julia1
+            name: Julia
+            job: paperwork
+            age: >30
+    - number6:
